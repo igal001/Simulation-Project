@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_trickle.html#aec068a07c8dacc1e1cc32501b87c9e29" title="Trickle::Trickle_vTimeOutEvent" alt="" coords="214,5,413,32"/>
+<area shape="rect" id="node7" href="$class_trickle.html#a550d0c8932b38023c53e45c67ac19aa7" title="Trickle::Trickle_vInitTimer" alt="" coords="230,107,397,133"/>
+<area shape="rect" id="node16" href="$class_trickle.html#a0b10d526777492d856757220b64738c3" title="Trickle::Trickle_vResetTimer" alt="" coords="221,56,405,83"/>
+<area shape="rect" id="node19" href="$class_trickle.html#a03b7ca3cf8fb58a9425a673af63f39f2" title="Trickle::Trickle_Stop" alt="" coords="243,157,383,184"/>
+<area shape="rect" id="node5" href="$class_trickle.html#a159cf7a6536e0ed95db8840632422865" title="Trickle::Trickle_vStartCycle" alt="" coords="461,31,640,57"/>
+<area shape="rect" id="node9" href="$class_trickle_message.html#a3ee9a0fe1b936880904ad192f4d0c54a" title="TrickleMessage::getImax" alt="" coords="467,81,634,108"/>
+<area shape="rect" id="node11" href="$class_trickle_message.html#a3c6d67a69841ea893723a59a94afbcd6" title="TrickleMessage::getImin" alt="" coords="469,132,632,159"/>
+<area shape="rect" id="node13" href="$class_trickle_message.html#ad76ea4b42f9f73a99db29a5f7cde9093" title="TrickleMessage::getK" alt="" coords="477,183,625,209"/>
+</map>

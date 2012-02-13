@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_d_i_s_message_descriptor.html#a70ef1bcdc29fb93394c1e20c82aae5a2" title="DISMessageDescriptor::getFieldCount" alt="" coords="312,5,555,32"/>
+<area shape="rect" id="node5" href="$class_d_i_s_message.html#acfba647c4ad0af99c70525b04c9d1d8e" title="DISMessage::getSomeField" alt="" coords="341,56,525,83"/>
+<area shape="rect" id="node7" href="$class_d_i_s_message.html#ace0f9bc1583bf99520a767c72cd30b85" title="DISMessage::getAnotherField" alt="" coords="336,107,531,133"/>
+<area shape="rect" id="node9" href="$class_d_i_s_message.html#a6ab18db6abc72fb6ea5d98566e025e92" title="DISMessage::getArrayField1" alt="" coords="339,157,527,184"/>
+<area shape="rect" id="node11" href="$class_d_i_s_message.html#a7c724e73156f851208bfb55f98d38dfa" title="DISMessage::getArrayField2" alt="" coords="339,208,527,235"/>
+</map>

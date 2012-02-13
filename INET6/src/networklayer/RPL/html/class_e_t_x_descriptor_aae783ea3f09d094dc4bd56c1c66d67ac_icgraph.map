@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_e_t_x_descriptor.html#a97fdb6b27875a250bde5de3680960f06" title="ETXDescriptor::getFieldTypeFlags" alt="" coords="253,5,472,32"/>
+<area shape="rect" id="node5" href="$class_e_t_x_descriptor.html#a54c4bfa4cfce6b553a6abf0873033480" title="ETXDescriptor::getFieldName" alt="" coords="267,56,459,83"/>
+<area shape="rect" id="node7" href="$class_e_t_x_descriptor.html#a5aeaed6f93c24479ef6c85a854336347" title="ETXDescriptor::getFieldTypeString" alt="" coords="253,107,473,133"/>
+<area shape="rect" id="node9" href="$class_e_t_x_descriptor.html#a0a41250b9973ca9369ec98bd780a0a79" title="ETXDescriptor::getFieldProperty" alt="" coords="259,157,466,184"/>
+<area shape="rect" id="node11" href="$class_e_t_x_descriptor.html#a352af08cc24853b9820d88ff464f426e" title="ETXDescriptor::getArraySize" alt="" coords="269,208,456,235"/>
+<area shape="rect" id="node13" href="$class_e_t_x_descriptor.html#a0821db2e8d42f25c4e3e1744fc000250" title="ETXDescriptor::getFieldAsString" alt="" coords="259,259,467,285"/>
+<area shape="rect" id="node15" href="$class_e_t_x_descriptor.html#a85e57da8152836c60a552bab9508dd76" title="ETXDescriptor::setFieldAsString" alt="" coords="259,309,467,336"/>
+<area shape="rect" id="node17" href="$class_e_t_x_descriptor.html#a80624d855121838413aa74232b5f6d21" title="ETXDescriptor::getFieldStructName" alt="" coords="249,360,476,387"/>
+<area shape="rect" id="node19" href="$class_e_t_x_descriptor.html#a2ddd0fd794862129b6ed52c4ff7d5c70" title="ETXDescriptor::getFieldStructPointer" alt="" coords="245,411,480,437"/>
+</map>

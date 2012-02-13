@@ -1,0 +1,98 @@
+file 442675 1328885127                                          
+version 2
+run General-0-20120210-14:12:23-9592
+attr configname General
+attr datetime 20120210-14:12:23
+attr experiment General
+attr inifile D:/omnetpp/omnetpp-4.1/ex2/inet6/examples/adhoc/ieee80211/omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network Net80211
+attr processid 9592
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 3  Net80211.host[0].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 2  Net80211.host[0].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 7  Net80211.host[1].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 6  Net80211.host[1].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 11  Net80211.host[2].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 10  Net80211.host[2].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 15  Net80211.host[3].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 14  Net80211.host[3].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 19  Net80211.host[4].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 18  Net80211.host[4].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 23  Net80211.host[5].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 22  Net80211.host[5].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 27  Net80211.host[6].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 26  Net80211.host[6].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 31  Net80211.host[7].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 30  Net80211.host[7].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 35  Net80211.host[8].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 34  Net80211.host[8].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 39  Net80211.host[9].wlan.mac  RadioState  ETV
+attr enum  "IDLE=0, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 38  Net80211.host[9].wlan.mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITBROADCAST=5, WAITCTS=6, WAITDIFS=2, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+2	3695 26714 0 12486 0 26.211651359783 1032 0 5 584 2236
+3	30409 16244 0 12485 0 26.211651359783 628 0 2 348 416
+6	46653 26476 0 12477 0 26.211650747089 1022 0 5 516 2188
+7	73129 16200 0 12477 0 26.211650747089 626 0 2 350 426
+10	89329 27500 0 12475 0 26.210988542982 1024 0 5 570 2202
+11	116829 16756 0 12475 0 26.210988542982 624 0 2 345 413
+14	133585 26946 0 12471 0 26.210987587759 1002 0 5 422 1706
+15	160531 16766 0 12471 0 26.210987587759 624 0 2 339 395
+18	177297 27418 0 12474 0 26.210988222984 1020 0 5 562 2022
+19	204715 16768 0 12474 0 26.210988222984 624 0 2 339 395
+22	221483 27214 0 12473 0 26.210988192138 1014 0 5 532 1904
+23	248697 16744 0 12473 0 26.210988192138 624 0 2 337 389
+26	265441 27680 0 12472 0 26.210988038699 1030 0 5 624 2272
+27	293121 16756 0 12472 0 26.210988038699 624 0 2 343 407
+30	309877 27570 0 12500 0 26.211651574483 1024 0 5 544 2144
+31	337447 16840 0 12499 0 26.211651574483 626 0 2 346 414
+34	354287 27354 0 12493 0 26.211651394215 1018 0 5 524 1884
+35	381641 16874 0 12492 0 26.211651394215 628 0 2 340 392
+38	398515 27330 0 12479 0 26.211651127883 1016 0 5 480 2000
+39	425845 16830 0 12478 0 26.211651127883 626 0 2 346 414

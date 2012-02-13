@@ -1,0 +1,3 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "Net80211.host[0].networkLayer6.ipv6.ping0-reply.ping0-reply" "ICMPv6EchoReplyMsg" "1" "498x312+250+250:normal"
+

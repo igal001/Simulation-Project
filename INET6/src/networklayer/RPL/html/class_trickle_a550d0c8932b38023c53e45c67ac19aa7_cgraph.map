@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_trickle_message.html#a3ee9a0fe1b936880904ad192f4d0c54a" title="TrickleMessage::getImax" alt="" coords="227,5,394,32"/>
+<area shape="rect" id="node5" href="$class_trickle_message.html#a3c6d67a69841ea893723a59a94afbcd6" title="TrickleMessage::getImin" alt="" coords="229,56,392,83"/>
+<area shape="rect" id="node7" href="$class_trickle_message.html#ad76ea4b42f9f73a99db29a5f7cde9093" title="TrickleMessage::getK" alt="" coords="237,107,385,133"/>
+<area shape="rect" id="node9" href="$class_trickle.html#a159cf7a6536e0ed95db8840632422865" title="Trickle::Trickle_vStartCycle" alt="" coords="221,157,400,184"/>
+</map>

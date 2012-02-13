@@ -1,0 +1,37 @@
+version 2
+run General-0-20120210-14:12:23-9592
+attr configname General
+attr datetime 20120210-14:12:23
+attr experiment General
+attr inifile D:/omnetpp/omnetpp-4.1/ex2/inet6/examples/adhoc/ieee80211/omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network Net80211
+attr processid 9592
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar Net80211.host[0].wlan.mgmt 	"packets received by queue" 	17
+scalar Net80211.host[0].wlan.mgmt 	"packets dropped by queue" 	0
+scalar Net80211.host[1].wlan.mgmt 	"packets received by queue" 	19
+scalar Net80211.host[1].wlan.mgmt 	"packets dropped by queue" 	0
+scalar Net80211.host[2].wlan.mgmt 	"packets received by queue" 	17
+scalar Net80211.host[2].wlan.mgmt 	"packets dropped by queue" 	0
+scalar Net80211.host[3].wlan.mgmt 	"packets received by queue" 	14
+scalar Net80211.host[3].wlan.mgmt 	"packets dropped by queue" 	0
+scalar Net80211.host[4].wlan.mgmt 	"packets received by queue" 	14
+scalar Net80211.host[4].wlan.mgmt 	"packets dropped by queue" 	0
+scalar Net80211.host[5].wlan.mgmt 	"packets received by queue" 	13
+scalar Net80211.host[5].wlan.mgmt 	"packets dropped by queue" 	0
+scalar Net80211.host[6].wlan.mgmt 	"packets received by queue" 	16
+scalar Net80211.host[6].wlan.mgmt 	"packets dropped by queue" 	0
+scalar Net80211.host[7].wlan.mgmt 	"packets received by queue" 	17
+scalar Net80211.host[7].wlan.mgmt 	"packets dropped by queue" 	0
+scalar Net80211.host[8].wlan.mgmt 	"packets received by queue" 	13
+scalar Net80211.host[8].wlan.mgmt 	"packets dropped by queue" 	0
+scalar Net80211.host[9].wlan.mgmt 	"packets received by queue" 	17
+scalar Net80211.host[9].wlan.mgmt 	"packets dropped by queue" 	0
