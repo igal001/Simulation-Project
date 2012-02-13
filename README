@@ -1,0 +1,42 @@
+Installation instructions:
+
+Omnet++:
+1.1.	 installation:
+•	Download and install the Java 5.0 or later from http://www.java.com.
+•	Download the Omnet++ source code from http://omnetpp.org. Make sure to select the Windows version.
+•	Extract the archive to a directory whose full path does not contain any space.
+•	Enter the created omnet folder and start migwenv.cmd. it will open a console with the MSYS bash shell.
+•	To check the configuration file type in the shell: notepad configure.user.
+•	In order to install omnet enter the following commands:
+./configure
+make
+•	To verify the installation and start a semple simulation type the following commands:
+cd sample/dyna
+./dyna
+You should see GUI windows and dialogs.
+•	To start omnet from the bash type: omnetpp.
+To create a desktop shortcut locate omnetpp.exe program right click it and choose Send To->Desktop(create shortcut).
+
+Note: for more information use the omnet Install Guide (pdf) of the windows version from http://omnetpp.org.
+
+1.2.	Additional Packages:
+Doxygen, eclipse and git plugins are included in the omnet++ packege, and don’t need to be downloaded.
+
+INET
+2.	INET installation:
+http://inet.omnetpp.org/index.php?n=Main.Download
+download and extract .
+•	Right-click in the IDE “Project Explorer” view. 
+•	Select “Import…” 
+•	“Existing Projects into workspace” -> Next. 
+•	Select the directory where you extracted INET as the project root directory.
+•	Click on Finish. The project will show up in the project explorer.
+•	Select the project in the project explorer and press Ctrl-B to build it. 
+•	The “Console” tab title (bottom of the window) should show some output from make. 
+•	If the build is successful, the “Problems” tab will only show some warnings.
+To test examples just choose one of the examples and in the “Run” menu, choose “Run configurations.”
+Choose in the main tag -> browse and go to the sample-> then do run.
+
+Our code:
+just Add our code to Inet's project directory.
+Replace if necessary.
